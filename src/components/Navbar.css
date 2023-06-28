@@ -1,0 +1,43 @@
+*{
+    margin:0;
+    padding:0;
+  }
+
+  .header{
+    display: flex;
+    justify-content: space-around;
+    
+
+  }
+
+ 
+
+  .left h1{
+   margin-top: 20px;
+   color: green;
+  }
+
+  .right ul {
+    color: green;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+    margin-left: 50px;
+  }
+
+ .right ul li{
+    list-style: none;
+    padding: 20px;
+  }
+
+  li:hover{
+    color: blue;
+  }
+
+
+
+  
+  
+
+ 
+

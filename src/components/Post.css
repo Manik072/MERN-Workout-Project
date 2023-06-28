@@ -1,0 +1,38 @@
+.total{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.center-form{
+    margin-top: 50px;
+}
+
+.card-main{    
+    margin-top: 50px;
+    background-color: white;
+    height: 200px;
+    border-style: solid;
+    border-color: antiquewhite; 
+    margin-bottom: 30px;
+    width: 500px;
+
+}
+
+
+.card-main h2{
+    margin-top: 20px;
+    color: green;
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 20px;
+    
+}
+
+.btn{
+    align-items: center;
+}
+
+
+
+
